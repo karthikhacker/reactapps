@@ -1,0 +1,38 @@
+#root{
+    font-family: 'Josefin Sans', sans-serif;
+    color:#34495e;
+    font-size: 19px;
+}
+
+.navbar{
+  background: #25373D;
+  border:0;
+  border-radius: 0;
+}
+
+.navbar-header > .navbar-brand {
+    color: #FFF;
+}
+
+h2{
+   text-transform: uppercase;
+}
+
+.col-md-12{
+   margin-bottom: 21px;
+}
+
+.completed{
+text-decoration: line-through;
+color: #c0392b
+}
+
+.form-control{
+   margin-right: 8px;
+   border: 1px solid #ecf0f1;
+   border-radius: 0;
+}
+
+.btn{
+  border-radius: 0;
+}
